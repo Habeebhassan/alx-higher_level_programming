@@ -7,7 +7,7 @@ Attributes:
 
 
 def add_integer(a, b=98):
-    """Adds two integers and/or float values.
+    """Adds two integer and/or float values.
 
     Args:
         a (int): First value
