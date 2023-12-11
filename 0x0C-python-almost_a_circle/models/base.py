@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Defines a base class """
+"""a base class"""
 import json
 import os.path
 import csv
@@ -7,7 +7,7 @@ import turtle
 
 
 class Base:
-    """Class that defines properties of Base.
+    """Class defines properties of Base.
 
      Attributes:
         id (int): Identity of each instance.

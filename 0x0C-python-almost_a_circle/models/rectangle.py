@@ -6,7 +6,7 @@ from models.base import Base
 
 
 class Rectangle(Base):
-    """Class that defines properties of Rectangle.
+    """Class defines properties of Rectangle.
 
      Attributes:
         width (int): width of rectangle.

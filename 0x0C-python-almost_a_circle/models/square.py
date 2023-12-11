@@ -7,7 +7,7 @@ from models.rectangle import Rectangle
 
 
 class Square(Rectangle):
-    """Class that defines properties of Square.
+    """Class defines properties of Square.
 
      Attributes:
         width (int): width of rectangle.
