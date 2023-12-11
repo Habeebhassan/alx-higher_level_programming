@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""a class Base"""
+""" Defines a base class """
 import json
 import os.path
 import csv
