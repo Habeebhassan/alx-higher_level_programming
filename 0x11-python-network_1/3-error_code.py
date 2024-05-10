@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Sends a request to a given URL and displays the response
 """
